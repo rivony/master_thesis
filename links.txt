@@ -1,0 +1,1 @@
+git@github.com:rivony/master_thesis.git
